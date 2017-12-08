@@ -1,6 +1,6 @@
 /*
 SQLyog v10.2 
-MySQL - 5.5.25 : Database - db_saima
+MySQL - 5.5.25 : Database - condingparty
 *********************************************************************
 */
 
@@ -12,9 +12,9 @@ MySQL - 5.5.25 : Database - db_saima
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-CREATE DATABASE /*!32312 IF NOT EXISTS*/`db_saima` /*!40100 DEFAULT CHARACTER SET utf8 */;
+CREATE DATABASE /*!32312 IF NOT EXISTS*/`condingparty` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
-USE `db_saima`;
+USE `condingparty`;
 
 /*Table structure for table `t_error_question` */
 
