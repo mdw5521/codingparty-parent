@@ -18,7 +18,7 @@
 			<div class="head-bar public">
 				<div class="logo">
 					<a href="${ pageContext.request.contextPath }/user/home.do"></a>
-					<p><span ><font size="5">CodingParth后台管理页面</font></span></p>
+					<p><span ><font size="5">CodingParty后台管理页面</font></span></p>
 				</div>
 			</div>
 		</div>
